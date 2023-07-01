@@ -2,12 +2,6 @@
 
 # Youtube speed control  
 
-A simple way to control speed of the youtube playback in [firefox](https://addons.mozilla.org/en-US/firefox/addon/youtube-speed-control/)
-
-![](src/option/YouTubeSpeedOption.jpg)
-
-Control speed of the youtube playback using keyboard.
-Press '+' to increase and '-' to decrease the playback speed.
-Or Shift + mouse wheel .
+A simple bookmarklet to control speed of the Youtube playback in Firefox, as the applicable Bookmarklets for Chromium don't work on Firefox
 
 That plugin doesn't work together with "Enhancer for YouTube™"
